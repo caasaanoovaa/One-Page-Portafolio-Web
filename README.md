@@ -9,9 +9,13 @@ Para poder hacer que la página sea más atractiva y funcional, he utilizado la 
 
 Puedes ver la página publicada en el siguiente enlace:
 
-(https://github.com/caasaanoovaa/One-Page-Portafolio-Web/blob/main/index.html)
+https://github.com/caasaanoovaa/One-Page-Portafolio-Web/blob/main/index.html
 
 ## Captura de pantalla
 
-![Captura de pantalla](ruta/a/tu/imagen.png)
+https://github.com/caasaanoovaa/One-Page-Portafolio-Web/blob/main/pagina%201.PNG
+https://github.com/caasaanoovaa/One-Page-Portafolio-Web/blob/main/pagina%202.PNG
+https://github.com/caasaanoovaa/One-Page-Portafolio-Web/blob/main/pagina%203.PNG
+https://github.com/caasaanoovaa/One-Page-Portafolio-Web/blob/main/pagina%204.PNG
+https://github.com/caasaanoovaa/One-Page-Portafolio-Web/blob/main/pagina%205.PNG
 
